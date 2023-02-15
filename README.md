@@ -1,1 +1,1 @@
-# site-photographe
+Base de code pour le cours HTML CSS
